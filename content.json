@@ -1,0 +1,192 @@
+{
+  "schoolName": "Little Sunshine Play School",
+  "tagline": "A bright beginning for a beautiful future",
+  "phone": "8019812049",
+  "address": "Siddharthanagar, Road No. 7, Opp. Fathima Multi Speciality Hospital, Fathimanagar, Kazipet, HNK",
+  "about": "At Little Sunshine Play School, every child is welcomed with warmth, care, curiosity and joyful learning. We help little learners discover the world through play, creativity and meaningful experiences.",
+  "programs": [
+    {
+      "name": "Play Group",
+      "description": "A joyful first step into learning, friendship and exploration."
+    },
+    {
+      "name": "Day Care",
+      "description": "A caring, safe and engaging space for little ones throughout the day."
+    },
+    {
+      "name": "Nursery",
+      "description": "Play-based learning that builds confidence, communication and curiosity."
+    },
+    {
+      "name": "LKG",
+      "description": "A strong foundation through activities, discovery and early learning."
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Playful Learning",
+      "description": "Learning through activities, stories, games and discovery."
+    },
+    {
+      "name": "Caring Environment",
+      "description": "A warm and welcoming atmosphere where children feel valued."
+    },
+    {
+      "name": "Creative Activities",
+      "description": "Art, music, movement and hands-on experiences."
+    }
+  ],
+  "announcements": [
+    {
+      "title": "Admissions Open",
+      "text": "Admissions are open for Play Group, Day Care, Nursery and LKG. Contact us for details."
+    }
+  ],
+  "gallery": [],
+  "videos": [],
+  "published": true,
+  "liveContent": {
+    "schoolName": "Little Sunshine Play School",
+    "tagline": "A bright beginning for a beautiful future",
+    "phone": "8019812049",
+    "address": "Siddharthanagar, Road No. 7, Opp. Fathima Multi Speciality Hospital, Fathimanagar, Kazipet, HNK",
+    "about": "At Little Sunshine Play School, every child is welcomed with warmth, care, curiosity and joyful learning. We help little learners discover the world through play, creativity and meaningful experiences.",
+    "programs": [
+      {
+        "name": "Play Group",
+        "description": "A joyful first step into learning, friendship and exploration."
+      },
+      {
+        "name": "Day Care",
+        "description": "A caring, safe and engaging space for little ones throughout the day."
+      },
+      {
+        "name": "Nursery",
+        "description": "Play-based learning that builds confidence, communication and curiosity."
+      },
+      {
+        "name": "LKG",
+        "description": "A strong foundation through activities, discovery and early learning."
+      }
+    ],
+    "facilities": [
+      {
+        "name": "Playful Learning",
+        "description": "Learning through activities, stories, games and discovery."
+      },
+      {
+        "name": "Caring Environment",
+        "description": "A warm and welcoming atmosphere where children feel valued."
+      },
+      {
+        "name": "Creative Activities",
+        "description": "Art, music, movement and hands-on experiences."
+      }
+    ],
+    "announcements": [
+      {
+        "title": "Admissions Open",
+        "text": "Admissions are open for Play Group, Day Care, Nursery and LKG. Contact us for details."
+      }
+    ],
+    "gallery": [],
+    "videos": [],
+    "published": true
+  },
+  "draftContent": {
+    "schoolName": "Little Sunshine Play School",
+    "tagline": "A bright beginning for a beautiful future",
+    "phone": "8019812049",
+    "address": "Siddharthanagar, Road No. 7, Opp. Fathima Multi Speciality Hospital, Fathimanagar, Kazipet, HNK",
+    "about": "At Little Sunshine Play School, every child is welcomed with warmth, care, curiosity and joyful learning. We help little learners discover the world through play, creativity and meaningful experiences.",
+    "programs": [
+      {
+        "name": "Play Group",
+        "description": "A joyful first step into learning, friendship and exploration."
+      },
+      {
+        "name": "Day Care",
+        "description": "A caring, safe and engaging space for little ones throughout the day."
+      },
+      {
+        "name": "Nursery",
+        "description": "Play-based learning that builds confidence, communication and curiosity."
+      },
+      {
+        "name": "LKG",
+        "description": "A strong foundation through activities, discovery and early learning."
+      }
+    ],
+    "facilities": [
+      {
+        "name": "Playful Learning",
+        "description": "Learning through activities, stories, games and discovery."
+      },
+      {
+        "name": "Caring Environment",
+        "description": "A warm and welcoming atmosphere where children feel valued."
+      },
+      {
+        "name": "Creative Activities",
+        "description": "Art, music, movement and hands-on experiences."
+      }
+    ],
+    "announcements": [
+      {
+        "title": "Admissions Open",
+        "text": "Admissions are open for Play Group, Day Care, Nursery and LKG. Contact us for details."
+      }
+    ],
+    "gallery": [],
+    "videos": [],
+    "published": true,
+    "liveContent": {
+      "schoolName": "Little Sunshine Play School",
+      "tagline": "A bright beginning for a beautiful future",
+      "phone": "8019812049",
+      "address": "Siddharthanagar, Road No. 7, Opp. Fathima Multi Speciality Hospital, Fathimanagar, Kazipet, HNK",
+      "about": "At Little Sunshine Play School, every child is welcomed with warmth, care, curiosity and joyful learning. We help little learners discover the world through play, creativity and meaningful experiences.",
+      "programs": [
+        {
+          "name": "Play Group",
+          "description": "A joyful first step into learning, friendship and exploration."
+        },
+        {
+          "name": "Day Care",
+          "description": "A caring, safe and engaging space for little ones throughout the day."
+        },
+        {
+          "name": "Nursery",
+          "description": "Play-based learning that builds confidence, communication and curiosity."
+        },
+        {
+          "name": "LKG",
+          "description": "A strong foundation through activities, discovery and early learning."
+        }
+      ],
+      "facilities": [
+        {
+          "name": "Playful Learning",
+          "description": "Learning through activities, stories, games and discovery."
+        },
+        {
+          "name": "Caring Environment",
+          "description": "A warm and welcoming atmosphere where children feel valued."
+        },
+        {
+          "name": "Creative Activities",
+          "description": "Art, music, movement and hands-on experiences."
+        }
+      ],
+      "announcements": [
+        {
+          "title": "Admissions Open",
+          "text": "Admissions are open for Play Group, Day Care, Nursery and LKG. Contact us for details."
+        }
+      ],
+      "gallery": [],
+      "videos": [],
+      "published": true
+    }
+  }
+}
